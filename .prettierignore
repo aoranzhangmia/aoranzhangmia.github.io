@@ -1,0 +1,7 @@
+vendor/**
+node_modules/**
+_site/**
+validation/**
+**/*.pdf
+lighthouse_results/**
+al-folio-upgrade-report.md
